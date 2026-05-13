@@ -1,0 +1,53 @@
+========================================
+FECHA DE REGISTRO: 13/05/2026
+LENGUAJE UTILIZADO: C++
+----------------------------------------
+REPORTE DE ESTUDIANTES
+========================================
+ESTUDIANTE	N1	N2	N3	N4	N5
+Acosta Hanna	10	5	8	7	9	
+Andrade Hugo	5	7	8	9	10	
+Atiencia Josue	5	6	8	9	3	
+Balarrezo Diego	10	8	10	7	3	
+Barrionuevo Job	7	7	10	8	4	
+Bedoya Juan	10	8	9	6	7	
+Bravo Samuel	5	8	9	10	6	
+Cajiao Paulo	10	4	8	9	7	
+Calvopina Brandon	2	5	6	7	9	
+Castelo Katherine	10	8	7	6	9	
+Chacha Victor	2	5	8	10	6	
+Chiluiza Steed	6	7	4	10	5	
+Dominguez Daniel	10	8	9	5	6	
+Freire Alan	10	10	10	10	9	
+Gualle Abisag	5	10	8	5	10	
+Guaman Alexander	6	7	9	8	9	
+Guanga Sebastian	10	9	5	7	6	
+Guanotoa Karla	10	10	8	4	6	
+Landeta Edison	2	5	10	10	8	
+Lara Karen	2	1	3	3	2	
+Loor Jhon	10	7	8	5	10	
+Lopez Washington	10	10	8	8	9	
+Miranda Imanol	10	8	7	9	5	
+Monar Jhair	10	10	8	9	8	
+Muyulema Mateo	8	9	7	6	10	
+Narvaez Antonella	10	8	6	7	10	
+Nunez Bryan	8	6	7	8	10	
+Pilco Mario	4	6	5	7	8	
+Pomaquero Katherine	10	5	2	8	6	
+Quevedo Gina	10	10	8	9	7	
+Rivadeneira Matias	4	2	2	5	3	
+Rocha Carolina	10	5	8	6	7	
+Sanchez Isaac	9	8	2	1	1	
+Segovia Joseph	10	5	6	7	8	
+Supe Joan	5	4	10	8	9	
+Toapanta Matias	10	4	8	9	10	
+Verdesoto Kevin	10	4	6	7	8	
+Villacres Alejandro	10	5	8	9	3	
+Viteri Shantal	10	5	9	7	6	
+----------------------------------------
+Promedio grupal: 7.19487
+Nota mas alta: 10
+Nota mas baja: 1
+Aprobados: 30 | Reprobados: 9
+========================================
+
